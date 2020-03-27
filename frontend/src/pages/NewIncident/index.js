@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 import {Link, useHistory} from 'react-router-dom';
 import './styles.css';
-// import heroesImg from '../../assets/heroes.png';
 import logoImg from '../../assets/logo.svg';
 import {FiArrowLeft} from 'react-icons/fi'
 import api from '../../services/api';
